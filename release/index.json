@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Tachiyomi: Project Suki",
+        "pkg": "eu.kanade.tachiyomi.extension.npgx.projectsuki",
+        "apk": "tachiyomi-projectsuki-v1.4.4-release.apk",
+        "lang": "all",
+        "code": 4,
+        "version": "1.4.4",
+        "nsfw": 0,
+        "hasReadme": 1,
+        "hasChangelog": 1,
+        "sources": [
+            {
+                "name": "Project Suki",
+                "lang": "all",
+                "id": "8965918600406781666",
+                "baseUrl": "https://projectsuki.com/",
+                "versionId": 1,
+                "hasCloudflare": 0
+            }
+        ]
+    }
+]
